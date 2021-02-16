@@ -1,13 +1,13 @@
 ---
 title: "Jose Sanchez"
-image: "frank.jpg"
+image: "J.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/jose-sanchez-3ba76a186/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/Poor_Li77le_1"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/Jose-Sanchez-007"
   - label: Email
     url: "j.aurelio.s.r@gmail.com mail::email@email.com"
 output:
@@ -16,22 +16,17 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Jose Sanchez studies Psychology and Data Science at Lehman College.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Lehman College** | New York, NY
 
-Ph.D. in Computer Science | September 2009 - May 2014
+B.A. in Psychology | September 2018 - Current
 
-**The University of California, Berkeley** | Berkeley, CA
+**Lehman College** | New York, NY
 
-B.S. in Computer Science | September 2005 - May 2009
+Minor in Data Science | September 2018 - Current
 
 ## Experience
 
